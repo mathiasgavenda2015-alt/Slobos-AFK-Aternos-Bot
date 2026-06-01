@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobest.aternos.me",
+    "ip": "DirtSMPGG.aternos.me:60288",
     "port": 60288,
     "version": "",
     "try-creative": false
