@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DirtSMPGG.aternos.me:60288",
+    "ip": "DirtSMPGG.aternos.me",
     "port": 60288,
     "version": "",
     "try-creative": false
